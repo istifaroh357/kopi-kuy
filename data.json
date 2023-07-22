@@ -1,0 +1,94 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://images.pexels.com/photos/1304542/pexels-photo-1304542.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nama": "Es Lemon",
+            "size": "100 Ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=es+lemon&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/5947035/pexels-photo-5947035.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nama": "Es Buah Naga",
+            "size": "150 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=es+buah+naga&tbm=shop"
+        },
+        {
+            "foto": "https://media.istockphoto.com/id/1394262047/id/foto/smoothie-hijau-detoks-organik-sehat.webp?b=1&s=612x612&w=0&k=20&c=afAhYCW0FpAP8tJ1tIUh7GSAo0R_X5LOVlpqsKbFgKo=",
+            "nama": "Smoothie",
+            "size": "150 Ml",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=smoothie&tbm=shop"
+        },
+        {
+            "foto": "https://cdn.pixabay.com/photo/2012/03/01/00/31/water-19659_1280.jpg",
+            "nama": "Air Mineral",
+            "size": "600 Ml",
+            "harga": "8.000",
+            "link": "https://www.google.com/search?q=air+mineral&tbm=shop"
+        }
+    ],
+    "cake": [
+        {
+            "foto": "https://media.istockphoto.com/id/1436103340/id/foto/makanan-penutup-kue-pelangi-yang-manis-dan-lezat.jpg?s=612x612&w=0&k=20&c=ixaiY8ATurohXiWrPZohUECyBSbo0UGQrAIISPICk4M=",
+            "nama": "Rainbow Cake",
+            "size": "1 Slice",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=rainbow+cake&tbm=shop"
+        },
+        {
+            "foto": "https://cdn.pixabay.com/photo/2015/03/17/14/01/chocolate-677762_640.jpg",
+            "nama": "Brownies",
+            "size": "1 slice",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=brownies&tbm=shop"
+        },
+        {
+            "foto": "https://cdn.pixabay.com/photo/2021/04/10/14/28/cake-6167147_640.jpg",
+            "nama": "Red Velvet",
+            "size": "1 slice",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=red+velvet+cake&tbm=shop"
+        }
+    ]
+}
