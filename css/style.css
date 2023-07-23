@@ -532,6 +532,11 @@ footer div.navigasi a {
    padding: 8px;
 }
 
+/* CSS Revisi */
+.coklat{
+   background-color: rgb(126, 76, 76);
+}
+
 /* UNTUK kode RESPONSIF hari ke 3 tulis DI BAWAH sini */
 @media (max-width: 600px){
    header div.kiri, header div.kanan{
